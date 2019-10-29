@@ -1,0 +1,6 @@
+web/App.class
+web/controller/UserController.class
+web/config/SpringConfig.class
+web/service/TestBean.class
+web/service/UserService.class
+web/dao/UserDao.class

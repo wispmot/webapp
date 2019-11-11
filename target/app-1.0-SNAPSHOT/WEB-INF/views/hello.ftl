@@ -6,5 +6,6 @@
 </head>
 <body>
     <h1>I am first template</h1>
+    <a href="/users">go to Users</a>
 </body>
 </html>
